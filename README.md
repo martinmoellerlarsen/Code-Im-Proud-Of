@@ -1,5 +1,6 @@
 # Code-Im-Proud-Of
-Eden Growth Code for PhD fellow application
+Eden Growth Code for PhD fellow application.
+
 The following code is a model of bacterial growth on a 3D lattice called Eden Growth. The method places a new bacteria at the edge of the colony at each step
 thereby slowly growing the colony outwards from an initial seed in the middle of the lattice. In this version we simulate a colony where two species of bacteria 
 is competing for space within the same colony. The model randomly selects a site on the surface of the colony at each step and the from the set of empty sites adjecent to the surface sites places a new bacteria of the same type as its parent site. This process is then iterated over a specified number of times
