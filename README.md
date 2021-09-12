@@ -13,3 +13,5 @@ or saved as a .raw file to visualize using appropriate software
 
 Included in the folder is a small gif ColonyGrowth.gif that shows a colony growing up to 2*10^6 bacteria
 Also an image of the final colony ColonyImage.png is included
+
+The program uses the armadillo libary http://arma.sourceforge.net/
